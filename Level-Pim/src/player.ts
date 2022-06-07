@@ -1,5 +1,5 @@
 import * as PIXI from 'pixi.js'
-
+// Git test
 export class Player extends PIXI.Sprite {
 
     private xspeed = 0
