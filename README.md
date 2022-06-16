@@ -5,5 +5,5 @@ Er is een ABC-kroon die veel waard is. Na een lange gevecht hebben de goede supe
 
 ## Prototypes
 #### Prototype 1 Sena:
-#### Prototype 2 Sena: [klik hier](https://github.com/senalisa/CLE4-VroegeTaal2-Game/tree/master/sharkattack))
+#### Prototype 2 Sena: [klik hier](https://github.com/senalisa/CLE4-VroegeTaal2-Game/tree/master/sharkattack)
 #### Prototype 3 Sena: 
