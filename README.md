@@ -6,6 +6,6 @@ Er is een ABC-kroon die veel waard is. Na een lange gevecht hebben de goede supe
 ## Prototypes
 #### SENA
 - [Prototype 1] -  *movement, collision*
-- [Prototype 2](https://github.com/senalisa/CLE4-VroegeTaal2-Game/tree/master/sharkattack) -  *movement, collision, spawning enemies, collectible*
+- [Prototype 2](https://github.com/senalisa/CLE4-VroegeTaal2-Game/tree/master/SENA-Prototype-2) -  *movement, collision, spawning enemies, collectible*
 - [Prototype 3] - *movement, collision, spawning enemies, collectible, audio, health*
  
