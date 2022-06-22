@@ -1,3 +1,9 @@
-# CLE4-Prototype1
-# CLE4-Prototype1
-# CLE4-Prototype1
+## SENA 
+### PROTOTYPE 1
+### Welkom!
+Tijdens het maken van mijn tweede prototype heb ik rekening gehouden met de volgende game mechanics:
+- Movement
+- Collision
+- Spawning enemies (random generator)
+
+Als je vragen hebt, kan je me altijd berichten! :)
