@@ -5,7 +5,21 @@ Er is een ABC-kroon die veel waard is. Na een lange gevecht hebben de goede supe
 
 ## Prototypes
 #### SENA
-- [Prototype 1] -  *movement, collision, spawning enemy*
+- [Prototype 1](https://github.com/senalisa/CLE4-VroegeTaal2-Game/tree/master/SENA-Prototype-1) -  *movement, collision, spawning enemy*
 - [Prototype 2](https://github.com/senalisa/CLE4-VroegeTaal2-Game/tree/master/SENA-Prototype-2) -  *collision, spawning enemies, collectible*
 - [Prototype 3](https://github.com/senalisa/CLE4-VroegeTaal2-Game/tree/master/SENA-Prototype-3) - *collision, collectible, audio, health*
+
+#### RAIESA
+- [Prototype 1]() 
+- [Prototype 2]() 
+- [Prototype 3]() 
+
+#### JADON
+- [Prototype 1]() 
+- [Prototype 2]() 
+- [Prototype 3]() 
  
+ #### PIM
+- [Prototype 1]() 
+- [Prototype 2]() 
+- [Prototype 3]() 
